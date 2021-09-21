@@ -1,0 +1,17 @@
+[[package]]
+name = "import-file"
+version = "1.11"
+description = "Import py files using their relative or absolute path."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "9c5a50073cf5bee5e6272030cdb0c5e57b1ba653fac81a23aafd0b43070f7268"
+
+[metadata.files]
+import-file = [
+    {file = "import_file-1.11.zip", hash = "sha256:4f6b92d3928c3f1eaa915799370a1ef7f323ad86b89f2740a69e4c23c60ad7be"},
+]
